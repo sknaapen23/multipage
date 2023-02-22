@@ -2,6 +2,10 @@ h1 {
     color: rgb(10, 98, 239);
   }
 
-  .room {
+.room {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
   }
+
+#science {
+    font-size: medium;
+}
